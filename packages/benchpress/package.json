@@ -12,7 +12,7 @@
     "jpm": "1.1.4",
     "firefox-profile": "0.4.0",
     "selenium-webdriver": "^2.53.3",
-    "snyk": "^1.189.0"
+    "snyk": "^1.192.4"
   },
   "repository": {
     "type": "git",
