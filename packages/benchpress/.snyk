@@ -31,6 +31,6 @@ patch:
     - jpm > firefox-profile > archiver > zip-stream > archiver-utils > lodash:
         patched: '2019-07-04T02:18:39.238Z'
     - snyk > snyk-mvn-plugin > lodash:
-        patched: '2019-07-10T07:22:06.437Z'
+        patched: '2019-07-10T07:22:25.655Z'
     - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
-        patched: '2019-07-10T07:22:06.437Z'
+        patched: '2019-07-10T07:22:25.655Z'
