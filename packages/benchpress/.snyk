@@ -5,29 +5,29 @@ ignore: {}
 patch:
   SNYK-JS-LODASH-450202:
     - jpm > firefox-profile > archiver > archiver-utils > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - firefox-profile > archiver > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - firefox-profile > archiver > archiver-utils > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - firefox-profile > archiver > async > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - jpm > firefox-profile > archiver > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - firefox-profile > archiver > zip-stream > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - jpm > xml2js > xmlbuilder > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - firefox-profile > archiver > zip-stream > archiver-utils > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - jpm > firefox-profile > archiver > async > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - jpm > firefox-profile > archiver > zip-stream > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - jpm > request > form-data > async > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - jpm > sign-addon > request > form-data > async > lodash:
-        patched: '2019-07-04T02:18:39.238Z'
+        patched: '2019-07-04T05:49:36.956Z'
     - jpm > firefox-profile > archiver > zip-stream > archiver-utils > lodash:
         patched: '2019-07-04T02:18:39.238Z'
     - snyk > snyk-mvn-plugin > lodash:
